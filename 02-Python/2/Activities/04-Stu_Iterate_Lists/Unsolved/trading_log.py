@@ -26,6 +26,8 @@ trading_pnl = [ -224,  352, 252, 354, -544,
 
 
     # @TODO: Cumulatively sum up the total and count
+    
+
 
 
     # @TODO: Write logic to determine minimum and maximum values

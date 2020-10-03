@@ -25,9 +25,25 @@ bank names associated with the corresponding market cap ranges.
 # Republic Bancorp: .97
 
 # @TODO: Initialize a dictionary of banks and market caps (in billions)
-banks = {
-
+banks = {"jpmc": 327,
+         "boa": 302,
+         "citi": 173,
+         "wells": 273,
+         "goldman": 87,
+         "morgans": 72,
+         "usbancorp": 83,
+         "td": 108,
+         "pnc": 67,
+         "capone": 47,
+         "fnb": 4,
+         "firsthawaii": 3,
+         "ally": 12,
+         "wach": 145,
+         "republic": .97
+         
 }
+
+
 
 
 

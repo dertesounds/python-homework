@@ -8,7 +8,7 @@ organize her grocery shopping list.
 
 # @TODO: Create a list of groceries
 
-
+grocery_list = ["water","butter","eggs","apples", "cinnamon","sugar","milk" ]
 
 
 

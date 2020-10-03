@@ -13,9 +13,13 @@ years = 1.0
 
 # Define a function called calculate_compound_growth_rate with three arguments: beginning_balance, ending_balance, years. Function should output growth_rate.
 
+def calculate_compound_growth_rate(beginning_balance, ending_balance, years):
+    growth_rate = (ending_balance^(1/years) - beginning_balance) / ending_balance
+
 
 # Call calculate_compound_growth_rate using beginning_balance, ending_balance, and years. Capture as year_one_growth.
 
+return growth_rate
 
 # Update beginning_balance and ending balance for year two, and then execute calculate_compound_growth_rate
 
